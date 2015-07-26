@@ -49,3 +49,5 @@ download.file(url,destfile="./getdata/filedata.zip",method="curl")
 unzip(zipfile="./getdata/filedata.zip",exdir="./getdata")
 ```
 You need put run_analysis.R on the folder with uzipfile.
+##Postprocessing
+The file TidyData is saved on the folder getdata
